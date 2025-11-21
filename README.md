@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **arjen.clement@student.hu.nl**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/arjen-clement-2b2b5a356/](https://www.linkedin.com/in/arjen-clement-2b2b5a356/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/arjen-clement/](https://www.linkedin.com/in/arjen-clement-2b2b5a356/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
