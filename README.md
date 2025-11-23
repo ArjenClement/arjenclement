@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arjen Clement</h1>
-<h3 align="center">A passionate technical computer science student at the Hogeschool Utrecht</h3>
+<h3 align="center">A technical computer science student at the Hogeschool Utrecht</h3>
 
 - 🔭 I’m currently working on **a backend licensing program**
 
