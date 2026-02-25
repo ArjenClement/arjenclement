@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a backend licensing program**
 
-- 🌱 I’m currently learning **C++ and Javascript with React**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **arjen.clement@student.hu.nl**
 
